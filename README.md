@@ -1,6 +1,12 @@
 # <p align="center">My good name is Klein Baru</p>
 
 <p align="center">
+  <a href="https://www.upwork.com/freelancers/~0147e79b798e329ed1?mp_source=share" target="_blank">
+    <img src="upwork-button.svg" alt="Find me on Upwork" width="300"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=550&lines=CryptoTrading+AI+Agent+Architect;Risk+Management+Specialist;CCXT+%2B+FastAPI+Expert;Bybit+%26+Binance+Integration;Recursive+Thinking+%3E+Linear+Execution" alt="Typing SVG" />
 </p>
 
@@ -50,3 +56,9 @@ I Build **Profitable, Risk-Managed and Fully-Autonomous CryptoTrading AI Agents.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klein-baru/)
 
 ---
+
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~0147e79b798e329ed1?mp_source=share" target="_blank">
+    <img src="upwork-button.svg" alt="Find me on Upwork" width="300"/>
+  </a>
+</p>
