@@ -46,7 +46,7 @@ I Build **Profitable, Risk-Managed and Fully-Autonomous CryptoTrading AI Agents.
 ---
 
 ### 🔗 Professional Network
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klein-baru/)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0147e79b798e329ed1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klein-baru/)
 
 ---
