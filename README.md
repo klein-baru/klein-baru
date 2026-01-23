@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=39FF14&center=true&vCenter=true&width=550&lines=CryptoTrading+AI+Agents+Developer;Risk+Management+Specialist;RAY+&+Tensorflow+Expert;API+Integration;Profits.+Risk+Management.+Full+Autonomy." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=39FF14&center=true&vCenter=true&width=550&lines=CryptoTrading+AI+Agents+Developer;Risk+Management+Specialist;RAY+and+Tensorflow+Expert;API+Integration;Profits.+Risk+Management.+Full+Autonomy." alt="Typing SVG" />
 </p>
 
 ---
