@@ -16,7 +16,6 @@
 
 I Build **Profitable, Risk-Managed and Fully-Autonomous CryptoTrading AI Agents.**
 
-
 ### 🛠️ Tech Stack & Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/RAY-005571?style=for-the-badge&logo=ray)
@@ -30,6 +29,14 @@ I Build **Profitable, Risk-Managed and Fully-Autonomous CryptoTrading AI Agents.
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
+
+### Am Currently working on MALLY
+
+![Alt text](https://github.com/klein-baru/DRL_for_Crypto_Trading/blob/master/images/MALLY_goals.png)
+
+![Alt text](https://github.com/klein-baru/DRL_for_Crypto_Trading/blob/master/images/MALLY_flow.png)
+
+
 ---
 
 ### 💡 Core Skills
