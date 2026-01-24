@@ -30,7 +30,7 @@ I Build **Profitable, Risk-Managed and Fully-Autonomous CryptoTrading AI Agents.
 
 ---
 
-### Am Currently working on MALLY with the goal being to achieve $7000 RoI & <20% MDD in backtests
+### Am Currently working on [MALLY](https://github.com/klein-baru/MALLY_Crypto-Trading-AI-Agent-I) with the goal being to achieve $7000 RoI & <20% MDD in backtests
 
 ![Alt text](https://github.com/klein-baru/DRL_for_Crypto_Trading/blob/master/images/MALLY_goals.png)
 
