@@ -15,6 +15,21 @@
 ### 🟢 About Me
 
 I Build **Profitable, Risk-Managed and Fully-Autonomous CryptoTrading AI Agents.**
+
+
+### 🛠️ Tech Stack & Frameworks
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/RAY-005571?style=for-the-badge&logo=ray)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Bybit](https://img.shields.io/badge/Bybit_API-000000?style=for-the-badge&logo=bybit&logoColor=white)
+![Binance](https://img.shields.io/badge/Binance_Testnet-F3BA2F?style=for-the-badge&logo=binance&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
 ---
 
 ### 💡 Core Skills
@@ -35,22 +50,6 @@ I Build **Profitable, Risk-Managed and Fully-Autonomous CryptoTrading AI Agents.
 </div>
 
 ---
-
-### 🛠️ Tech Stack & Frameworks
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![CCXT](https://img.shields.io/badge/CCXT-blueviolet?style=for-the-badge&logo=tradingview)
-![Bybit](https://img.shields.io/badge/Bybit_API-000000?style=for-the-badge&logo=bybit&logoColor=white)
-![Binance](https://img.shields.io/badge/Binance_Testnet-F3BA2F?style=for-the-badge&logo=binance&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
----
-
 ### 🔗 Professional Network
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0147e79b798e329ed1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klein-baru/)
