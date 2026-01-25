@@ -16,16 +16,13 @@
 
 	Greetings.
 	
-	Upwork - https://www.upwork.com/freelancers/~0147e79b798e329ed1?mp_source=share
-	GitHub - https://github.com/klein-baru
-	
 	It's Klein here...I strive to Build CryptoTrading AI Agents on these 3 pillars:
 	✓ Maximum Profitability 
 	✓ Minimal Risk
 	✓ Full Autonomy 
 	
 	The Goal is to Ensure you CREATE WEALTH SAFELY & PASSIVELY.
-  Text me "AI" on LinkedIn Messages to get started.
+    Text me "AI" on LinkedIn Messages to get started.
 
 
 ### 🛠️ Tech Stack & Frameworks
