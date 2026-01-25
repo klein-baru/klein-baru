@@ -22,7 +22,7 @@
 	✓ Full Autonomy 
 	
 	The Goal is to Ensure you CREATE WEALTH SAFELY & PASSIVELY.
-    Reach me via Upwork to CREATE WEALTH FOR YOURSELF: https://www.upwork.com/freelancers/~0147e79b798e329ed1?mp_source=share 
+    Reach me via Upwork to CREATE WEALTH FOR YOURSELF:[](https://www.upwork.com/freelancers/~0147e79b798e329ed1?mp_source=share)
 
 
 ### 🛠️ Tech Stack & Frameworks
