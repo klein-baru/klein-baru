@@ -17,12 +17,13 @@
 	Greetings.
 	
 	It's Klein here...I strive to Build CryptoTrading AI Agents on these 3 pillars:
-	✓ Maximum Profitability 
-	✓ Minimal Risk
-	✓ Full Autonomy 
-	
+		✓ Maximum Profitability 
+		✓ Minimal Risk
+		✓ Full Autonomy 
+
 	The Goal is to Ensure you CREATE WEALTH SAFELY & PASSIVELY.
-    Reach me via Upwork to CREATE WEALTH FOR YOURSELF:[](https://www.upwork.com/freelancers/~0147e79b798e329ed1?mp_source=share)
+
+    	Reach me via Upwork to CREATE WEALTH FOR YOURSELF.
 
 
 ### 🛠️ Tech Stack & Frameworks
