@@ -23,7 +23,7 @@
 
 	The Goal is to Ensure you CREATE WEALTH SAFELY & PASSIVELY.
 
-    	Reach me via Upwork to CREATE WEALTH FOR YOURSELF.
+    Reach me via Upwork to CREATE WEALTH FOR YOURSELF.
 
 
 ### 🛠️ Tech Stack & Frameworks
