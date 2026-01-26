@@ -14,16 +14,12 @@
 
 ### 🟢 About Me
 
-	Greetings.
-		
-	It's Klein here...I strive to Build CryptoTrading AI Agents on these 3 pillars:
+	Greetings. It's Klein here...I strive to Build CryptoTrading AI Agents on these 3 pillars:
 			✓ Maximum Profitability 
 			✓ Minimal Risk
 			✓ Full Autonomy 
+	The Goal is to Ensure you CREATE WEALTH SAFELY & PASSIVELY. Reach me via Upwork to CREATE WEALTH FOR YOURSELF.
 	
-	The Goal is to Ensure you CREATE WEALTH SAFELY & PASSIVELY.
-	
-    Reach me via Upwork to CREATE WEALTH FOR YOURSELF.
 ---
 ### 🛠️ Tech Stack & Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
