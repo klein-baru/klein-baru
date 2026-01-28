@@ -50,14 +50,12 @@
 
 | **Category** | **Skills** |
 |--------------|------------|
-| **Quantitative Analysis** | Statistical Modeling • Time Series Analysis • Feature Engineering • Alpha Research |
-| **Algorithmic Trading** | Strategy Development • Order Execution • Market Making • Arbitrage Detection |
-| **Risk Management** | Position Sizing • Kelly Criterion • Drawdown Control • Portfolio Optimization |
-| **Backtesting & Validation** | VectorBT • Walk-Forward Analysis • Monte Carlo Simulation • Out-of-Sample Testing |
-| **Machine Learning** | LSTM • Reinforcement Learning • Deep Q-Networks • Transformer Models |
-| **Debugging & Optimization** | Performance Profiling • Memory Optimization • Latency Reduction • Error Handling |
-| **Exchange Integration** | CCXT • WebSocket Streaming • Order Management • Real-time Data Feeds |
-| **Production Deployment** | Docker • Kubernetes • CI/CD Pipelines • Cloud Infrastructure |
+| **Deep Reinforcement Learning** | • Transformer Models • RAY • Tensorflow |
+| **API/Exchange Integration** | Binance • ByBit • Santiment |
+| **Risk Management** | Position Sizing |
+| **Backtesting & Validation** | Custom |
+| **Debugging & Optimization** | • Latency Reduction • Error Handling |
+| **Production Deployment** | Cloud Infrastructure |
 
 </div>
 
